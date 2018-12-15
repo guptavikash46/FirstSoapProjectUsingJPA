@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.VikasEvolution.com/ProjectSoapJPA"
+           xmlns:tns="http://www.VikasEvolution.com/ProjectSoapJPA" elementFormDefault="qualified">
+
+    <!-- Generating Request -->
+    <xs:element name="GetStudentDetailsRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Name" type="xs:string"/>
+                <xs:element name="Age" type="xs:int"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Generating response-->
+
+    <xs:element name="GetStudentDetailsResponse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Message" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

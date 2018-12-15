@@ -1,0 +1,6 @@
+com\vikasevolution\projectsoapjpa\GetStudentDetailsResponse.class
+com\vikas\Service\AddStudent\AddStudentService.class
+com\vikasevolution\projectsoapjpa\GetStudentDetailsRequest.class
+com\vikas\Service\AddStudent\AddStudentServiceImpl.class
+com\vikasevolution\projectsoapjpa\package-info.class
+com\vikasevolution\projectsoapjpa\ObjectFactory.class

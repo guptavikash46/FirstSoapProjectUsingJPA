@@ -1,0 +1,7 @@
+com\vikas\SoapJPA\Main\DbServiceEndpoint.class
+com\vikas\SoapJPA\Main\WebConfig.class
+com\xyz\projectsoapjpa\ObjectFactory.class
+com\vikas\SoapJPA\Main\projectSoapJPAapplication.class
+com\xyz\projectsoapjpa\GetStudentDetailsRequest.class
+com\xyz\projectsoapjpa\package-info.class
+com\xyz\projectsoapjpa\GetStudentDetailsResponse.class
